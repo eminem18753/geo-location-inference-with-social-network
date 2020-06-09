@@ -1,0 +1,6 @@
+Total number of users: 107092
+Number of users with location unknown: 53623
+Number of users with location unknown and no friends: 3779
+Baseline accuracy (predicting all unknown locations as (0,0)): 0.50
+Upper bound accuracy 1 (assume that we can know all the users locations if they have friends: 0.96
+Upper bound accuracy 2 (assume that we can know all the users locations if they have friends sharing locations: 0.82
